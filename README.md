@@ -5,7 +5,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 - 🔭 I’m working as a Senior Software Engineer and contributing to frontend and backend for building web/mobile applications.
 - 👨‍💻 I consult Sartups to improve their frontend React app performance.
@@ -49,7 +49,7 @@ const dharmeshRajput = {
 };
 
 const executeSomethingAwesome = ( ) => { 
-  return Collaboration( ..dharmeshRajput );
+  return Collaboration( ...dharmeshRajput );
 }
 
 setInterval(() => {
