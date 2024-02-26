@@ -17,8 +17,8 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 //dharmesh.tsx
 
 import { Collaboration } from 'society';
-import { Javascript, Typescript, Rust } from 'community-languages';
-import { React, ReactNative, NestJs, NodeJs, AntD, MUI, Redux, Rocket } from 'community-technologies';
+import { Javascript, Typescript, Rust, Dart } from 'community-languages';
+import { React, ReactNative, NestJs, NodeJs, AntD, MUI, Redux, Rocket, Flutter } from 'community-technologies';
 import { Neo4J, MongoDB, MySQL } from 'db';
 import { Jenkins, Vercel, Docker } from 'dev-ops-tools';
 import { FrontendPerformanceExpert, ExperiencedSystemDesigner } from 'industry-terms';
@@ -26,10 +26,11 @@ import { Wisdom, Hardwork, Focus } from 'human-terminology';
 
 
 const dharmeshRajput = {
-    languages: [ Javascript, Typescript, Rust], 
+    languages: [ Javascript, Typescript, Rust, Dart ], 
     technologies: {
         frontEnd: {
-            js: [ React, ReactNative, Redux, MUI, AntD ]
+            js: [ React, ReactNative, Redux, MUI, AntD ],
+            dart: [ Flutter ]
         },
         backEnd: {
             js: [ NodeJs, NestJs ],
