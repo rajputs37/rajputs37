@@ -5,9 +5,9 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I am a Lead Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-- 🔭 I’m working as a Senior Software Engineer and contributing to frontend and backend for building web/mobile applications.
+- 🔭 I’m working as a Lead Software Engineer and contributing to frontend and backend for building web/mobile applications.
 - 👨‍💻 I consult Sartups to improve their frontend React app performance.
 - 🌱 Exploring Product management skills in my free time
 - No skill, only `Hard work`
