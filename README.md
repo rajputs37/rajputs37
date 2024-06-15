@@ -21,12 +21,12 @@ import { Javascript, Typescript, Rust, Dart } from 'community-languages';
 import { React, ReactNative, NestJs, NodeJs, AntD, MUI, Redux, Rocket, Flutter } from 'community-technologies';
 import { Neo4J, MongoDB, MySQL } from 'db';
 import { Jenkins, Vercel, Docker } from 'dev-ops-tools';
-import { FrontendPerformanceExpert, ExperiencedSystemDesigner } from 'industry-terms';
+import { FrontendPerformanceExpert, ExperiencedSystemDesigner, MachineLearningScientist } from 'industry-terms';
 import { Wisdom, Hardwork, Focus } from 'human-terminology';
 
 
 const dharmeshRajput = {
-    languages: [ Javascript, Typescript, Rust, Dart ], 
+    languages: [ Rust, Javascript, Typescript, Dart ], 
     technologies: {
         frontEnd: {
             js: [ React, ReactNative, Redux, MUI, AntD ],
@@ -41,7 +41,7 @@ const dharmeshRajput = {
         },
         devOps: [ Jenkins, Vercel, Docker ]
     },
-    knownFor: [ FrontendPerformanceExpert, ExperiencedSystemDesigner ],
+    knownFor: [ MachineLearningScientist, FrontendPerformanceExpert, ExperiencedSystemDesigner ],
     skillsThatMattersMoreThanTechnologies: [ Wisdom, Hardwork, Focus ],
     toDos: [ 'generateValueForMankind' ],
     privateLife: {
