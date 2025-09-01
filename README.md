@@ -5,11 +5,10 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Lead Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I am a Machine learning engineering manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-- 🔭 I’m working as a Lead Software Engineer and contributing to frontend and backend for building web/mobile applications.
-- 👨‍💻 I consult Sartups to improve their frontend React app performance.
-- 🌱 Exploring Product management skills in my free time
+- 🔭 I’m working as a Machine learning engineering manager.
+- 👨‍💻 I consult Startups on -- AI agents performance, model deployments, fine-tuning and RL.
 - No skill, only `Hard work`
 
 
@@ -17,31 +16,31 @@ I am a Lead Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 //dharmesh.tsx
 
 import { Collaboration } from 'society';
-import { Javascript, Typescript, Rust, Dart } from 'community-languages';
-import { React, ReactNative, NestJs, NodeJs, AntD, MUI, Redux, Rocket, Flutter } from 'community-technologies';
+import { Python, CUDA, Javascript, Typescript, Rust } from 'community-languages';
+import { Pytorch, Flask, FastAPI, JAX, React, ReactNative, NestJs, NodeJs, AntD, MUI, Redux, Rocket } from 'community-technologies';
 import { Neo4J, MongoDB, MySQL } from 'db';
 import { Jenkins, Vercel, Docker } from 'dev-ops-tools';
-import { FrontendPerformanceExpert, ExperiencedSystemDesigner, MachineLearningScientist } from 'industry-terms';
+import { ExperiencedSystemDesigner, MachineLearningScientist } from 'industry-terms';
 import { Wisdom, Hardwork, Focus } from 'human-terminology';
 
 
 const dharmeshRajput = {
-    languages: [ Rust, Javascript, Typescript, Dart ], 
+    languages: [ Python, CUDA, Rust, Javascript, Typescript ], 
     technologies: {
-        frontEnd: {
-            js: [ React, ReactNative, Redux, MUI, AntD ],
-            dart: [ Flutter ]
-        },
         backEnd: {
+            python: [ Pytorch, Flask, FastAPI ], 
+            rust: [ Rocket ],
             js: [ NodeJs, NestJs ],
-            Rust: [ Rocket ]
         },
         databases: {
             db: [ Neo4J, MongoDB, MySQL ]
         },
-        devOps: [ Jenkins, Vercel, Docker ]
+        devOps: [ Jenkins, Vercel, Docker ],
+        frontEnd: {
+            js: [ React, ReactNative, Redux, MUI, AntD ]
+        },
     },
-    knownFor: [ MachineLearningScientist, FrontendPerformanceExpert, ExperiencedSystemDesigner ],
+    knownFor: [ MachineLearningScientist, ExperiencedSystemDesigner ],
     skillsThatMattersMoreThanTechnologies: [ Wisdom, Hardwork, Focus ],
     toDos: [ 'generateValueForMankind' ],
     privateLife: {
